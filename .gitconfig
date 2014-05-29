@@ -1,0 +1,13 @@
+[user]
+	name = andrewblond
+	email = andrewblond@yandex.com
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
+[pull]
+	rebase = true
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
